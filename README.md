@@ -11,8 +11,6 @@
 
 - 👉 My skills with Python, Java, C, C++, and libraries such as NumPy, Pandas, Matplotlib, Scikit learn, Seaborn help me find innovative solutions to real-world, practical problems.
 
-- 💡 My professional experiences and research work have helped me figure out my interests. 
-
 - 📊 I'm passionate about DataScience and Full Stack Development and look forward to gaining more knowledge and experience in these fields.
 
 
