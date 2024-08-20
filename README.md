@@ -7,9 +7,9 @@
 </p>
 
 
-- 🤖 I am Abhishek Potdar, an undergraduate student pursuing a B.Tech in Information Technology from KJ Somaiya College of Engineering.
+- 🤖 I am Abhishek Potdar, pursuing a Masters in Computer Science at North Carolina State University. I have close to 2 years of experience as an AI and Data Analyst at Deloitte USI.
 
-- 👉 My coding skills with Python, Java along with web development frameworks and libraries such as NumPy, Pandas, Matplotlib, Scikit-learn help me find innovative solutions to real-world, practical problems.
+- 👉 My coding skills with Python, Java along with web development frameworks and libraries such as NumPy, Pandas, Matplotlib, Scikit-learn help me find innovative solutions to real-world problems.
 
 - 📊 I'm passionate about DataScience and Full Stack Development and look forward to gaining more knowledge and experience in these fields.
 
